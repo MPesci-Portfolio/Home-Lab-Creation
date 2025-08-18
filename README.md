@@ -3,16 +3,16 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This project documents my first home lab build - a self-contained virtual ecosystem to gain hands-on experience in cybersecurity tooling and environments. This foundation helps me test configurations, simulate real-world threats and deepen my understanding in a risk-free space.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Set up and managed virtualised environments using VirtualBox, including VM resource allocation and configuration.
+- Designed and implemented an isolated virtual network (Host-Only) to simulate secure, real-world environments.
+- Gained hands-on experience with Kali Linux and common security tools such as nmap for reconnaissance and service enumeration.
+- Practiced identifying and exploiting vulnerabilities in a deliberately vulnerable system (Metasploitable).
+- Strengthened troubleshooting skills by verifying connectivity, resolving network issues, and capturing traffic with Wireshark.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
