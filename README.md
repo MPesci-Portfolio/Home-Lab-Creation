@@ -1,12 +1,10 @@
 # Home-Lab-Creation
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 This project documents my first home lab build - a self-contained virtual ecosystem to gain hands-on experience in cybersecurity tooling and environments. This foundation helps me test configurations, simulate real-world threats and deepen my understanding in a risk-free space.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Set up and managed virtualised environments using VirtualBox, including VM resource allocation and configuration.
 - Designed and implemented an isolated virtual network (Host-Only) to simulate secure, real-world environments.
@@ -15,7 +13,6 @@ This project documents my first home lab build - a self-contained virtual ecosys
 - Strengthened troubleshooting skills by verifying connectivity, resolving network issues, and capturing traffic with Wireshark.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
