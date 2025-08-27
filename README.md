@@ -6,17 +6,23 @@ This project documents my first home lab build and installation of the attacking
 
 ### Skills Learned
 
-- Set up and managed virtualised environments using VirtualBox, including VM resource allocation and configuration.
-- Designed and implemented an isolated virtual network (Host-Only) to simulate secure, real-world environments.
-- Gained hands-on experience with Kali Linux and common security tools such as nmap for reconnaissance and service enumeration.
-- Practiced identifying and exploiting vulnerabilities in a deliberately vulnerable system (Metasploitable).
-- Strengthened troubleshooting skills by verifying connectivity, resolving network issues, and capturing traffic with Wireshark.
+- Enabling virtualization in BIOS/UEFI
+- Installing and configuring Oracle VirtualBox
+- Creating and managing virtual machines
+- Installing Kali Linux from ISO
+- Performing system updates and upgrades in Linux
+- Installing VirtualBox Guest Additions
+- Taking and restoring VM snapshots
+- Configuring VM networking (NAT, Host‑Only)
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Oracle VirtualBox
+- VirtualBox Extension Pack
+- Kali Linux ISO (Installer)
+- SHA256 checksum utilities (sha256sum, Get-FileHash)
+- Linux terminal commands (apt, sudo)
+- VirtualBox Guest Additions
 
 ## Steps
 
