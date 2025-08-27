@@ -30,7 +30,7 @@ Before I did anything, I made sure that virtualization was enabled on my machine
 
 ## Installing VirtualBox
 
-I went over to the [VirtualBox downloads page](https://www.virtualbox.org/wiki/Downloads) and grabbed the installer for Windows. Install was pretty straightforward — next, next, finish. I also added the Extension Pack so I can use USB 2.0/3.0 later if I need it.
+I went over to the [VirtualBox downloads page](https://www.virtualbox.org/wiki/Downloads) and grabbed the installer for Windows. Install was pretty straightforward, next, next, finish. I also added the Extension Pack so I can use USB 2.0/3.0 later if I need it.
 
 Once it finished, I opened VirtualBox Manager and just saw the empty home screen. *(Ref V1)*
 
@@ -101,7 +101,7 @@ By default, NAT worked fine to get updates. Later, I might add a Host‑Only ada
 
 ## Troubleshooting I Hit
 
-* At first I didn’t see the 64‑bit option in VirtualBox — turns out Hyper‑V was enabled on my Windows install. Once I disabled it, 64‑bit options showed up.
+* At first I didn’t see the 64‑bit option in VirtualBox. Turns out Hyper‑V was enabled on my Windows install. Once I disabled it, 64‑bit options showed up.
 * I got a black screen once with 3D acceleration turned on, so I disabled it and it’s been fine.
 * Screen size was stuck small until Guest Additions were properly installed.
 
