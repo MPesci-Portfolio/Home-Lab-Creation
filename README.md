@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project documents my first home lab build and installation of the attacking software Kali Linux - a self-contained virtual ecosystem to gain hands-on experience in cybersecurity tooling and environments, alongside . This foundation helps me test configurations, simulate real-world threats and deepen my understanding in a risk-free space.
+This project sets out to create my first cybersecurity home lab. A virtual ecosystem centered on Kali Linux as the attacking machine. My goal is to use this environment to explore cybersecurity tooling, simulate real-world threats and practice defensive and offensive techniques, all within a safe and isolated setup.
 
 ### Skills Learned
 
