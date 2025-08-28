@@ -40,6 +40,9 @@ I went over to the [VirtualBox downloads page](https://www.virtualbox.org/wiki/D
 
 Once it finished, I opened VirtualBox Manager and just saw the empty home screen. *(Ref V1)*
 
+<img width="804" height="466" alt="image" src="https://github.com/user-attachments/assets/a8e79bc6-3436-4abe-8760-3cfe3abdba9b" />
+
+
 ---
 
 ## Getting Kali Linux
